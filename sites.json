@@ -1,0 +1,56 @@
+[
+    {
+        "id": "piscine",
+        "name": "Piscine de Saint-André",
+        "coords": [50.65864684283401, 3.0502268635247067],
+        "info": "32 Rue Vauban<br>59350 Saint-André-lez-Lille"
+    },
+    {
+        "id": "piscine",
+        "name": "Piscine de Croix",
+        "coords": [50.67691555852414, 3.1488537299873496],
+        "info": "Rue Victor Schoelcher, 59170 Croix"
+    },
+    {
+        "id": "piscine",
+        "name": "Piscine de Lomme",
+        "coords": [50.64343708472991, 3.0139758657026876],
+        "info": "433Bis Av. de Dunkerque Lomme, 59160 Lille"
+    },
+    {
+        "id": "piscine",
+        "name": "Piscine de Armentieres",
+        "coords": [50.68858875591511, 2.8675004476715085],
+        "info": "17 Av. de l'Europe, 59280 Armentières"
+    },
+    {
+        "id": "carrieres",
+        "name": "Carrière de Barges (Tournai)",
+        "coords": [50.59096607270174, 3.394998268825418],
+        "info": "Site de plongée – Tournai"
+    },
+    {
+        "id": "carrieres",
+        "name": "Carrière de Rochefontaine",
+        "coords": [50.18377921818469, 4.641800055967801],
+        "info": "Site de plongée – Belgique"
+    },
+    {
+        "id": "carrieres",
+        "name": "Lac Bleu Roeux",
+        "coords": [50.29976103254881, 2.9108396797637575],
+        "info": "Site de plongée – Roeux"
+    },
+    {
+        "id": "fosse",
+        "name": "NEMO33 Brussels",
+        "coords": [50.79610952703455, 4.317097296982869],
+        "info": "Site de plongée – Brussels"
+    },
+    {
+        "id": "fosse",
+        "name": "Duiktank Transfo",
+        "coords": [50.81361500431855, 3.3525652737324707],
+        "info": "Site de plongée – Zwevegem"
+    }
+]
